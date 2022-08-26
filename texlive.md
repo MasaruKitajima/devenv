@@ -106,3 +106,21 @@ $ tlmgr update --self --all
 既に[Visual Studio Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)はインストールしてあるので、機能拡張のインストールやら設定をします。
 
 まず**必須**とも言える[LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)をインストールします。
+
+明日成形してね。
+
+   TEXDIR (the main TeX directory):
+     /usr/local/texlive/2022
+   TEXMFLOCAL (directory for site-wide local files):
+     /usr/local/texlive/texmf-local
+   TEXMFSYSVAR (directory for variable and automatically generated data):
+     /usr/local/texlive/2022/texmf-var
+   TEXMFSYSCONFIG (directory for local config):
+     /usr/local/texlive/2022/texmf-config
+   TEXMFVAR (personal directory for variable and automatically generated data):
+     ~/Library/texlive/2022/texmf-var
+   TEXMFCONFIG (personal directory for local config):
+     ~/Library/texlive/2022/texmf-config
+   TEXMFHOME (directory for user-specific files):
+     ~/Library/texmf
+     ドキュメントの一覧は /usr/local/texlive/2022/index.html をご覧ください．TeX Live のウェブサイト (https://tug.org/texlive/) にはすべてのアップデートとコレクションの情報が掲載されています．TeX Live は全世界の TeX ユーザ会有志による合同プロジェクトです．TeX Live プロジェクトをサポートしていただける場合お好きな TeX ユーザ会に入会することをご検討ください．TeX ユーザ会の一覧はhttps://tug.org/usergroups.html でご確認いただけます．
